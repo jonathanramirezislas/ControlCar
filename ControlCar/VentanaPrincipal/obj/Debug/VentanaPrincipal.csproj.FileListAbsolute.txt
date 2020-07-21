@@ -1,0 +1,186 @@
+c:\users\jonas\documents\visual studio 2015\Projects\VentanaPrincipal\VentanaPrincipal\bin\Debug\VentanaPrincipal.exe.config
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\Porgra Dos Proyecto final\VentanaPrincipal\bin\Debug\VentanaPrincipal.exe.config
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\Porgra Dos Proyecto final\VentanaPrincipal\bin\Debug\VentanaPrincipal.exe
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\Porgra Dos Proyecto final\VentanaPrincipal\bin\Debug\VentanaPrincipal.pdb
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\Porgra Dos Proyecto final\VentanaPrincipal\obj\Debug\VentanaPrincipal.csprojResolveAssemblyReference.cache
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\Porgra Dos Proyecto final\VentanaPrincipal\obj\Debug\VentanaPrincipal.Agregar.resources
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\Porgra Dos Proyecto final\VentanaPrincipal\obj\Debug\VentanaPrincipal.Eliminar.resources
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\Porgra Dos Proyecto final\VentanaPrincipal\obj\Debug\VentanaPrincipal.Form1.resources
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\Porgra Dos Proyecto final\VentanaPrincipal\obj\Debug\VentanaPrincipal.Modificaciones.resources
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\Porgra Dos Proyecto final\VentanaPrincipal\obj\Debug\VentanaPrincipal.Properties.Resources.resources
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\Porgra Dos Proyecto final\VentanaPrincipal\obj\Debug\VentanaPrincipal.Reportes.resources
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\Porgra Dos Proyecto final\VentanaPrincipal\obj\Debug\VentanaPrincipal.csproj.GenerateResource.Cache
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\Porgra Dos Proyecto final\VentanaPrincipal\obj\Debug\VentanaPrincipal.exe
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\Porgra Dos Proyecto final\VentanaPrincipal\obj\Debug\VentanaPrincipal.pdb
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\Porgra Dos Proyecto final\VentanaPrincipal\obj\Debug\VentanaPrincipal.Correciones.resources
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\Porgra Dos Proyecto final\VentanaPrincipal\obj\Debug\VentanaPrincipal.Cargas.resources
+C:\Users\Jonas\Videos\Porgra Dos Proyecto final\VentanaPrincipal\bin\Debug\VentanaPrincipal.exe.config
+C:\Users\Jonas\Videos\Porgra Dos Proyecto final\VentanaPrincipal\obj\Debug\VentanaPrincipal.exe
+C:\Users\Jonas\Videos\Porgra Dos Proyecto final\VentanaPrincipal\obj\Debug\VentanaPrincipal.pdb
+C:\Users\Jonas\Videos\Porgra Dos Proyecto final\VentanaPrincipal\bin\Debug\VentanaPrincipal.exe
+C:\Users\Jonas\Videos\Porgra Dos Proyecto final\VentanaPrincipal\bin\Debug\VentanaPrincipal.pdb
+C:\Users\Jonas\Videos\Porgra Dos Proyecto final\VentanaPrincipal\obj\Debug\VentanaPrincipal.csprojResolveAssemblyReference.cache
+C:\Users\Jonas\Videos\Porgra Dos Proyecto final\VentanaPrincipal\obj\Debug\VentanaPrincipal.Agregar.resources
+C:\Users\Jonas\Videos\Porgra Dos Proyecto final\VentanaPrincipal\obj\Debug\VentanaPrincipal.Cargas.resources
+C:\Users\Jonas\Videos\Porgra Dos Proyecto final\VentanaPrincipal\obj\Debug\VentanaPrincipal.Correciones.resources
+C:\Users\Jonas\Videos\Porgra Dos Proyecto final\VentanaPrincipal\obj\Debug\VentanaPrincipal.Eliminar.resources
+C:\Users\Jonas\Videos\Porgra Dos Proyecto final\VentanaPrincipal\obj\Debug\VentanaPrincipal.Form1.resources
+C:\Users\Jonas\Videos\Porgra Dos Proyecto final\VentanaPrincipal\obj\Debug\VentanaPrincipal.Modificaciones.resources
+C:\Users\Jonas\Videos\Porgra Dos Proyecto final\VentanaPrincipal\obj\Debug\VentanaPrincipal.Properties.Resources.resources
+C:\Users\Jonas\Videos\Porgra Dos Proyecto final\VentanaPrincipal\obj\Debug\VentanaPrincipal.Reportes.resources
+C:\Users\Jonas\Videos\Porgra Dos Proyecto final\VentanaPrincipal\obj\Debug\VentanaPrincipal.csproj.GenerateResource.Cache
+E:\PROYECTO FINAL PROGRA DOSSS\Porgra Dos Proyecto final\VentanaPrincipal\bin\Debug\VentanaPrincipal.exe.config
+E:\PROYECTO FINAL PROGRA DOSSS\Porgra Dos Proyecto final\VentanaPrincipal\obj\Debug\VentanaPrincipal.exe
+E:\PROYECTO FINAL PROGRA DOSSS\Porgra Dos Proyecto final\VentanaPrincipal\obj\Debug\VentanaPrincipal.pdb
+E:\PROYECTO FINAL PROGRA DOSSS\Porgra Dos Proyecto final\VentanaPrincipal\bin\Debug\VentanaPrincipal.exe
+E:\PROYECTO FINAL PROGRA DOSSS\Porgra Dos Proyecto final\VentanaPrincipal\bin\Debug\VentanaPrincipal.pdb
+E:\PROYECTO FINAL PROGRA DOSSS\Porgra Dos Proyecto final\VentanaPrincipal\obj\Debug\VentanaPrincipal.csprojResolveAssemblyReference.cache
+E:\PROYECTO FINAL PROGRA DOSSS\Porgra Dos Proyecto final\VentanaPrincipal\obj\Debug\VentanaPrincipal.Agregar.resources
+E:\PROYECTO FINAL PROGRA DOSSS\Porgra Dos Proyecto final\VentanaPrincipal\obj\Debug\VentanaPrincipal.Cargas.resources
+E:\PROYECTO FINAL PROGRA DOSSS\Porgra Dos Proyecto final\VentanaPrincipal\obj\Debug\VentanaPrincipal.Correciones.resources
+E:\PROYECTO FINAL PROGRA DOSSS\Porgra Dos Proyecto final\VentanaPrincipal\obj\Debug\VentanaPrincipal.Eliminar.resources
+E:\PROYECTO FINAL PROGRA DOSSS\Porgra Dos Proyecto final\VentanaPrincipal\obj\Debug\VentanaPrincipal.Form1.resources
+E:\PROYECTO FINAL PROGRA DOSSS\Porgra Dos Proyecto final\VentanaPrincipal\obj\Debug\VentanaPrincipal.Modificaciones.resources
+E:\PROYECTO FINAL PROGRA DOSSS\Porgra Dos Proyecto final\VentanaPrincipal\obj\Debug\VentanaPrincipal.Properties.Resources.resources
+E:\PROYECTO FINAL PROGRA DOSSS\Porgra Dos Proyecto final\VentanaPrincipal\obj\Debug\VentanaPrincipal.Reportes.resources
+E:\PROYECTO FINAL PROGRA DOSSS\Porgra Dos Proyecto final\VentanaPrincipal\obj\Debug\VentanaPrincipal.csproj.GenerateResource.Cache
+N:\PROYECTO FINAL PROGRA DOSSS\Porgra Dos Proyecto final\VentanaPrincipal\bin\Debug\VentanaPrincipal.exe.config
+N:\PROYECTO FINAL PROGRA DOSSS\Porgra Dos Proyecto final\VentanaPrincipal\obj\Debug\VentanaPrincipal.exe
+N:\PROYECTO FINAL PROGRA DOSSS\Porgra Dos Proyecto final\VentanaPrincipal\obj\Debug\VentanaPrincipal.pdb
+N:\PROYECTO FINAL PROGRA DOSSS\Porgra Dos Proyecto final\VentanaPrincipal\bin\Debug\VentanaPrincipal.exe
+N:\PROYECTO FINAL PROGRA DOSSS\Porgra Dos Proyecto final\VentanaPrincipal\bin\Debug\VentanaPrincipal.pdb
+N:\PROYECTO FINAL PROGRA DOSSS\Porgra Dos Proyecto final\VentanaPrincipal\obj\Debug\VentanaPrincipal.csprojResolveAssemblyReference.cache
+N:\PROYECTO FINAL PROGRA DOSSS\Porgra Dos Proyecto final\VentanaPrincipal\obj\Debug\VentanaPrincipal.Agregar.resources
+N:\PROYECTO FINAL PROGRA DOSSS\Porgra Dos Proyecto final\VentanaPrincipal\obj\Debug\VentanaPrincipal.Cargas.resources
+N:\PROYECTO FINAL PROGRA DOSSS\Porgra Dos Proyecto final\VentanaPrincipal\obj\Debug\VentanaPrincipal.Correciones.resources
+N:\PROYECTO FINAL PROGRA DOSSS\Porgra Dos Proyecto final\VentanaPrincipal\obj\Debug\VentanaPrincipal.Eliminar.resources
+N:\PROYECTO FINAL PROGRA DOSSS\Porgra Dos Proyecto final\VentanaPrincipal\obj\Debug\VentanaPrincipal.Form1.resources
+N:\PROYECTO FINAL PROGRA DOSSS\Porgra Dos Proyecto final\VentanaPrincipal\obj\Debug\VentanaPrincipal.Modificaciones.resources
+N:\PROYECTO FINAL PROGRA DOSSS\Porgra Dos Proyecto final\VentanaPrincipal\obj\Debug\VentanaPrincipal.Properties.Resources.resources
+N:\PROYECTO FINAL PROGRA DOSSS\Porgra Dos Proyecto final\VentanaPrincipal\obj\Debug\VentanaPrincipal.Reportes.resources
+N:\PROYECTO FINAL PROGRA DOSSS\Porgra Dos Proyecto final\VentanaPrincipal\obj\Debug\VentanaPrincipal.csproj.GenerateResource.Cache
+C:\Users\Jonas\Videos\PROYECTO FINAL PROGRA DOSSS\Porgra Dos Proyecto final\VentanaPrincipal\bin\Debug\VentanaPrincipal.exe.config
+C:\Users\Jonas\Videos\PROYECTO FINAL PROGRA DOSSS\Porgra Dos Proyecto final\VentanaPrincipal\obj\Debug\VentanaPrincipal.exe
+C:\Users\Jonas\Videos\PROYECTO FINAL PROGRA DOSSS\Porgra Dos Proyecto final\VentanaPrincipal\obj\Debug\VentanaPrincipal.pdb
+C:\Users\Jonas\Videos\PROYECTO FINAL PROGRA DOSSS\Porgra Dos Proyecto final\VentanaPrincipal\obj\Debug\VentanaPrincipal.csprojResolveAssemblyReference.cache
+C:\Users\Jonas\Videos\PROYECTO FINAL PROGRA DOSSS\Porgra Dos Proyecto final\VentanaPrincipal\obj\Debug\VentanaPrincipal.Agregar.resources
+C:\Users\Jonas\Videos\PROYECTO FINAL PROGRA DOSSS\Porgra Dos Proyecto final\VentanaPrincipal\obj\Debug\VentanaPrincipal.Cargas.resources
+C:\Users\Jonas\Videos\PROYECTO FINAL PROGRA DOSSS\Porgra Dos Proyecto final\VentanaPrincipal\obj\Debug\VentanaPrincipal.Correciones.resources
+C:\Users\Jonas\Videos\PROYECTO FINAL PROGRA DOSSS\Porgra Dos Proyecto final\VentanaPrincipal\obj\Debug\VentanaPrincipal.Eliminar.resources
+C:\Users\Jonas\Videos\PROYECTO FINAL PROGRA DOSSS\Porgra Dos Proyecto final\VentanaPrincipal\obj\Debug\VentanaPrincipal.Form1.resources
+C:\Users\Jonas\Videos\PROYECTO FINAL PROGRA DOSSS\Porgra Dos Proyecto final\VentanaPrincipal\obj\Debug\VentanaPrincipal.Modificaciones.resources
+C:\Users\Jonas\Videos\PROYECTO FINAL PROGRA DOSSS\Porgra Dos Proyecto final\VentanaPrincipal\obj\Debug\VentanaPrincipal.Properties.Resources.resources
+C:\Users\Jonas\Videos\PROYECTO FINAL PROGRA DOSSS\Porgra Dos Proyecto final\VentanaPrincipal\obj\Debug\VentanaPrincipal.Reportes.resources
+C:\Users\Jonas\Videos\PROYECTO FINAL PROGRA DOSSS\Porgra Dos Proyecto final\VentanaPrincipal\obj\Debug\VentanaPrincipal.csproj.GenerateResource.Cache
+C:\Users\Jonas\Videos\PROYECTO FINAL PROGRA DOSSS\Porgra Dos Proyecto final\VentanaPrincipal\obj\Debug\RdlCompile.cache
+C:\Users\Jonas\Videos\PROYECTO FINAL PROGRA DOSSS\Porgra Dos Proyecto final\VentanaPrincipal\obj\Debug\RdlCompile.compiled
+C:\Users\Jonas\Videos\PROYECTO FINAL PROGRA DOSSS\Porgra Dos Proyecto final\VentanaPrincipal\bin\Debug\VentanaPrincipal.exe
+C:\Users\Jonas\Videos\PROYECTO FINAL PROGRA DOSSS\Porgra Dos Proyecto final\VentanaPrincipal\bin\Debug\VentanaPrincipal.pdb
+C:\Users\Jonas\Videos\PROYECTO FINAL PROGRA DOSSS\Porgra Dos Proyecto final\VentanaPrincipal\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Jonas\Videos\PROYECTO FINAL PROGRA DOSSS\Porgra Dos Proyecto final\VentanaPrincipal\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Jonas\Videos\PROYECTO FINAL PROGRA DOSSS\Porgra Dos Proyecto final\VentanaPrincipal\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jonas\Videos\PROYECTO FINAL PROGRA DOSSS\Porgra Dos Proyecto final\VentanaPrincipal\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Jonas\Videos\PROYECTO FINAL PROGRA DOSSS\Porgra Dos Proyecto final\VentanaPrincipal\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Jonas\Videos\PROYECTO FINAL PROGRA DOSSS\Porgra Dos Proyecto final\VentanaPrincipal\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Jonas\Videos\PROYECTO FINAL PROGRA DOSSS\Porgra Dos Proyecto final\VentanaPrincipal\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Jonas\Videos\PROYECTO FINAL PROGRA DOSSS\Porgra Dos Proyecto final\VentanaPrincipal\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Jonas\Videos\PROYECTO FINAL PROGRA DOSSS\Porgra Dos Proyecto final\VentanaPrincipal\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Jonas\Videos\PROYECTO FINAL PROGRA DOSSS\Porgra Dos Proyecto final\VentanaPrincipal\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Jonas\Videos\PROYECTO FINAL PROGRA DOSSS\Porgra Dos Proyecto final\VentanaPrincipal\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Jonas\Videos\PROYECTO FINAL PROGRA DOSSS\Porgra Dos Proyecto final\VentanaPrincipal\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Jonas\Videos\PROYECTO FINAL PROGRA DOSSS\Porgra Dos Proyecto final\VentanaPrincipal\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Jonas\Pictures\PROYECTO FINAL PROGRA DOSSS\Porgra Dos Proyecto final\VentanaPrincipal\bin\Debug\VentanaPrincipal.exe.config
+C:\Users\Jonas\Pictures\PROYECTO FINAL PROGRA DOSSS\Porgra Dos Proyecto final\VentanaPrincipal\obj\Debug\VentanaPrincipal.exe
+C:\Users\Jonas\Pictures\PROYECTO FINAL PROGRA DOSSS\Porgra Dos Proyecto final\VentanaPrincipal\obj\Debug\VentanaPrincipal.pdb
+C:\Users\Jonas\Pictures\PROYECTO FINAL PROGRA DOSSS\Porgra Dos Proyecto final\VentanaPrincipal\bin\Debug\VentanaPrincipal.exe
+C:\Users\Jonas\Pictures\PROYECTO FINAL PROGRA DOSSS\Porgra Dos Proyecto final\VentanaPrincipal\bin\Debug\VentanaPrincipal.pdb
+C:\Users\Jonas\Pictures\PROYECTO FINAL PROGRA DOSSS\Porgra Dos Proyecto final\VentanaPrincipal\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Jonas\Pictures\PROYECTO FINAL PROGRA DOSSS\Porgra Dos Proyecto final\VentanaPrincipal\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Jonas\Pictures\PROYECTO FINAL PROGRA DOSSS\Porgra Dos Proyecto final\VentanaPrincipal\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jonas\Pictures\PROYECTO FINAL PROGRA DOSSS\Porgra Dos Proyecto final\VentanaPrincipal\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Jonas\Pictures\PROYECTO FINAL PROGRA DOSSS\Porgra Dos Proyecto final\VentanaPrincipal\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Jonas\Pictures\PROYECTO FINAL PROGRA DOSSS\Porgra Dos Proyecto final\VentanaPrincipal\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Jonas\Pictures\PROYECTO FINAL PROGRA DOSSS\Porgra Dos Proyecto final\VentanaPrincipal\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Jonas\Pictures\PROYECTO FINAL PROGRA DOSSS\Porgra Dos Proyecto final\VentanaPrincipal\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Jonas\Pictures\PROYECTO FINAL PROGRA DOSSS\Porgra Dos Proyecto final\VentanaPrincipal\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Jonas\Pictures\PROYECTO FINAL PROGRA DOSSS\Porgra Dos Proyecto final\VentanaPrincipal\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Jonas\Pictures\PROYECTO FINAL PROGRA DOSSS\Porgra Dos Proyecto final\VentanaPrincipal\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Jonas\Pictures\PROYECTO FINAL PROGRA DOSSS\Porgra Dos Proyecto final\VentanaPrincipal\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Jonas\Pictures\PROYECTO FINAL PROGRA DOSSS\Porgra Dos Proyecto final\VentanaPrincipal\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Jonas\Pictures\PROYECTO FINAL PROGRA DOSSS\Porgra Dos Proyecto final\VentanaPrincipal\obj\Debug\VentanaPrincipal.csprojResolveAssemblyReference.cache
+C:\Users\Jonas\Pictures\PROYECTO FINAL PROGRA DOSSS\Porgra Dos Proyecto final\VentanaPrincipal\obj\Debug\VentanaPrincipal.Agregar.resources
+C:\Users\Jonas\Pictures\PROYECTO FINAL PROGRA DOSSS\Porgra Dos Proyecto final\VentanaPrincipal\obj\Debug\VentanaPrincipal.Cargas.resources
+C:\Users\Jonas\Pictures\PROYECTO FINAL PROGRA DOSSS\Porgra Dos Proyecto final\VentanaPrincipal\obj\Debug\VentanaPrincipal.Correciones.resources
+C:\Users\Jonas\Pictures\PROYECTO FINAL PROGRA DOSSS\Porgra Dos Proyecto final\VentanaPrincipal\obj\Debug\VentanaPrincipal.Eliminar.resources
+C:\Users\Jonas\Pictures\PROYECTO FINAL PROGRA DOSSS\Porgra Dos Proyecto final\VentanaPrincipal\obj\Debug\VentanaPrincipal.Form1.resources
+C:\Users\Jonas\Pictures\PROYECTO FINAL PROGRA DOSSS\Porgra Dos Proyecto final\VentanaPrincipal\obj\Debug\VentanaPrincipal.Modificaciones.resources
+C:\Users\Jonas\Pictures\PROYECTO FINAL PROGRA DOSSS\Porgra Dos Proyecto final\VentanaPrincipal\obj\Debug\VentanaPrincipal.Properties.Resources.resources
+C:\Users\Jonas\Pictures\PROYECTO FINAL PROGRA DOSSS\Porgra Dos Proyecto final\VentanaPrincipal\obj\Debug\VentanaPrincipal.Reportes.resources
+C:\Users\Jonas\Pictures\PROYECTO FINAL PROGRA DOSSS\Porgra Dos Proyecto final\VentanaPrincipal\obj\Debug\VentanaPrincipal.csproj.GenerateResource.Cache
+C:\Users\Jonas\Pictures\PROYECTO FINAL PROGRA DOSSS\Porgra Dos Proyecto final\VentanaPrincipal\obj\Debug\RdlCompile.cache
+C:\Users\Jonas\Pictures\PROYECTO FINAL PROGRA DOSSS\Porgra Dos Proyecto final\VentanaPrincipal\obj\Debug\RdlCompile.compiled
+C:\Users\Jonas\Pictures\Proyecto_sincambios\Porgra Dos Proyecto final\VentanaPrincipal\bin\Debug\VentanaPrincipal.exe.config
+C:\Users\Jonas\Pictures\Proyecto_sincambios\Porgra Dos Proyecto final\VentanaPrincipal\obj\Debug\VentanaPrincipal.exe
+C:\Users\Jonas\Pictures\Proyecto_sincambios\Porgra Dos Proyecto final\VentanaPrincipal\obj\Debug\VentanaPrincipal.pdb
+C:\Users\Jonas\Pictures\Proyecto_sincambios\Porgra Dos Proyecto final\VentanaPrincipal\bin\Debug\VentanaPrincipal.exe
+C:\Users\Jonas\Pictures\Proyecto_sincambios\Porgra Dos Proyecto final\VentanaPrincipal\bin\Debug\VentanaPrincipal.pdb
+C:\Users\Jonas\Pictures\Proyecto_sincambios\Porgra Dos Proyecto final\VentanaPrincipal\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Jonas\Pictures\Proyecto_sincambios\Porgra Dos Proyecto final\VentanaPrincipal\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Jonas\Pictures\Proyecto_sincambios\Porgra Dos Proyecto final\VentanaPrincipal\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jonas\Pictures\Proyecto_sincambios\Porgra Dos Proyecto final\VentanaPrincipal\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Jonas\Pictures\Proyecto_sincambios\Porgra Dos Proyecto final\VentanaPrincipal\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Jonas\Pictures\Proyecto_sincambios\Porgra Dos Proyecto final\VentanaPrincipal\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Jonas\Pictures\Proyecto_sincambios\Porgra Dos Proyecto final\VentanaPrincipal\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Jonas\Pictures\Proyecto_sincambios\Porgra Dos Proyecto final\VentanaPrincipal\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Jonas\Pictures\Proyecto_sincambios\Porgra Dos Proyecto final\VentanaPrincipal\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Jonas\Pictures\Proyecto_sincambios\Porgra Dos Proyecto final\VentanaPrincipal\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Jonas\Pictures\Proyecto_sincambios\Porgra Dos Proyecto final\VentanaPrincipal\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Jonas\Pictures\Proyecto_sincambios\Porgra Dos Proyecto final\VentanaPrincipal\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Jonas\Pictures\Proyecto_sincambios\Porgra Dos Proyecto final\VentanaPrincipal\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Jonas\Pictures\Proyecto_sincambios\Porgra Dos Proyecto final\VentanaPrincipal\obj\Debug\VentanaPrincipal.csprojResolveAssemblyReference.cache
+C:\Users\Jonas\Pictures\Proyecto_sincambios\Porgra Dos Proyecto final\VentanaPrincipal\obj\Debug\VentanaPrincipal.Agregar.resources
+C:\Users\Jonas\Pictures\Proyecto_sincambios\Porgra Dos Proyecto final\VentanaPrincipal\obj\Debug\VentanaPrincipal.Cargas.resources
+C:\Users\Jonas\Pictures\Proyecto_sincambios\Porgra Dos Proyecto final\VentanaPrincipal\obj\Debug\VentanaPrincipal.Correciones.resources
+C:\Users\Jonas\Pictures\Proyecto_sincambios\Porgra Dos Proyecto final\VentanaPrincipal\obj\Debug\VentanaPrincipal.Eliminar.resources
+C:\Users\Jonas\Pictures\Proyecto_sincambios\Porgra Dos Proyecto final\VentanaPrincipal\obj\Debug\VentanaPrincipal.Form1.resources
+C:\Users\Jonas\Pictures\Proyecto_sincambios\Porgra Dos Proyecto final\VentanaPrincipal\obj\Debug\VentanaPrincipal.Modificaciones.resources
+C:\Users\Jonas\Pictures\Proyecto_sincambios\Porgra Dos Proyecto final\VentanaPrincipal\obj\Debug\VentanaPrincipal.Properties.Resources.resources
+C:\Users\Jonas\Pictures\Proyecto_sincambios\Porgra Dos Proyecto final\VentanaPrincipal\obj\Debug\VentanaPrincipal.Reportes.resources
+C:\Users\Jonas\Pictures\Proyecto_sincambios\Porgra Dos Proyecto final\VentanaPrincipal\obj\Debug\VentanaPrincipal.csproj.GenerateResource.Cache
+C:\Users\Jonas\Pictures\Proyecto_sincambios\Porgra Dos Proyecto final\VentanaPrincipal\obj\Debug\RdlCompile.cache
+C:\Users\Jonas\Pictures\Proyecto_sincambios\Porgra Dos Proyecto final\VentanaPrincipal\obj\Debug\RdlCompile.compiled
+E:\Proyecto_sincambios\Porgra Dos Proyecto final\VentanaPrincipal\bin\Debug\VentanaPrincipal.exe.config
+E:\Proyecto_sincambios\Porgra Dos Proyecto final\VentanaPrincipal\obj\Debug\VentanaPrincipal.exe
+E:\Proyecto_sincambios\Porgra Dos Proyecto final\VentanaPrincipal\obj\Debug\VentanaPrincipal.pdb
+E:\Proyecto_sincambios\Porgra Dos Proyecto final\VentanaPrincipal\bin\Debug\VentanaPrincipal.exe
+E:\Proyecto_sincambios\Porgra Dos Proyecto final\VentanaPrincipal\bin\Debug\VentanaPrincipal.pdb
+E:\Proyecto_sincambios\Porgra Dos Proyecto final\VentanaPrincipal\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Proyecto_sincambios\Porgra Dos Proyecto final\VentanaPrincipal\obj\Debug\VentanaPrincipal.csprojResolveAssemblyReference.cache
+E:\Proyecto_sincambios\Porgra Dos Proyecto final\VentanaPrincipal\obj\Debug\VentanaPrincipal.Agregar.resources
+E:\Proyecto_sincambios\Porgra Dos Proyecto final\VentanaPrincipal\obj\Debug\VentanaPrincipal.Cargas.resources
+E:\Proyecto_sincambios\Porgra Dos Proyecto final\VentanaPrincipal\obj\Debug\VentanaPrincipal.Correciones.resources
+E:\Proyecto_sincambios\Porgra Dos Proyecto final\VentanaPrincipal\obj\Debug\VentanaPrincipal.Eliminar.resources
+E:\Proyecto_sincambios\Porgra Dos Proyecto final\VentanaPrincipal\obj\Debug\VentanaPrincipal.Form1.resources
+E:\Proyecto_sincambios\Porgra Dos Proyecto final\VentanaPrincipal\obj\Debug\VentanaPrincipal.Modificaciones.resources
+E:\Proyecto_sincambios\Porgra Dos Proyecto final\VentanaPrincipal\obj\Debug\VentanaPrincipal.Properties.Resources.resources
+E:\Proyecto_sincambios\Porgra Dos Proyecto final\VentanaPrincipal\obj\Debug\VentanaPrincipal.Reportes.resources
+E:\Proyecto_sincambios\Porgra Dos Proyecto final\VentanaPrincipal\obj\Debug\VentanaPrincipal.csproj.GenerateResource.Cache
+N:\Proyecto_sincambios\Porgra Dos Proyecto final\VentanaPrincipal\bin\Debug\VentanaPrincipal.exe.config
+N:\Proyecto_sincambios\Porgra Dos Proyecto final\VentanaPrincipal\obj\Debug\VentanaPrincipal.exe
+N:\Proyecto_sincambios\Porgra Dos Proyecto final\VentanaPrincipal\obj\Debug\VentanaPrincipal.pdb
+C:\Users\Jona\Desktop\Proyecto_Unida_progra_\Porgra Dos Proyecto final\VentanaPrincipal\bin\Debug\VentanaPrincipal.exe.config
+C:\Users\Jona\Desktop\Proyecto_Unida_progra_\Porgra Dos Proyecto final\VentanaPrincipal\obj\Debug\VentanaPrincipal.exe
+C:\Users\Jona\Desktop\Proyecto_Unida_progra_\Porgra Dos Proyecto final\VentanaPrincipal\obj\Debug\VentanaPrincipal.pdb
+C:\Users\Jona\Desktop\Proyecto_Unida_progra_\Porgra Dos Proyecto final\VentanaPrincipal\bin\Debug\VentanaPrincipal.exe
+C:\Users\Jona\Desktop\Proyecto_Unida_progra_\Porgra Dos Proyecto final\VentanaPrincipal\bin\Debug\VentanaPrincipal.pdb
+C:\Users\Jona\Desktop\Proyecto_Unida_progra_\Porgra Dos Proyecto final\VentanaPrincipal\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jona\Desktop\Proyecto_Unida_progra_\Porgra Dos Proyecto final\VentanaPrincipal\obj\Debug\VentanaPrincipal.csprojResolveAssemblyReference.cache
+C:\Users\Jona\Desktop\Proyecto_Unida_progra_\Porgra Dos Proyecto final\VentanaPrincipal\obj\Debug\VentanaPrincipal.Agregar.resources
+C:\Users\Jona\Desktop\Proyecto_Unida_progra_\Porgra Dos Proyecto final\VentanaPrincipal\obj\Debug\VentanaPrincipal.Cargas.resources
+C:\Users\Jona\Desktop\Proyecto_Unida_progra_\Porgra Dos Proyecto final\VentanaPrincipal\obj\Debug\VentanaPrincipal.Correciones.resources
+C:\Users\Jona\Desktop\Proyecto_Unida_progra_\Porgra Dos Proyecto final\VentanaPrincipal\obj\Debug\VentanaPrincipal.Eliminar.resources
+C:\Users\Jona\Desktop\Proyecto_Unida_progra_\Porgra Dos Proyecto final\VentanaPrincipal\obj\Debug\VentanaPrincipal.Form1.resources
+C:\Users\Jona\Desktop\Proyecto_Unida_progra_\Porgra Dos Proyecto final\VentanaPrincipal\obj\Debug\VentanaPrincipal.Modificaciones.resources
+C:\Users\Jona\Desktop\Proyecto_Unida_progra_\Porgra Dos Proyecto final\VentanaPrincipal\obj\Debug\VentanaPrincipal.Properties.Resources.resources
+C:\Users\Jona\Desktop\Proyecto_Unida_progra_\Porgra Dos Proyecto final\VentanaPrincipal\obj\Debug\VentanaPrincipal.Reportes.resources
+C:\Users\Jona\Desktop\Proyecto_Unida_progra_\Porgra Dos Proyecto final\VentanaPrincipal\obj\Debug\VentanaPrincipal.csproj.GenerateResource.Cache
